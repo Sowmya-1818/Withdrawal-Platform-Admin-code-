@@ -1,0 +1,55 @@
+@media (max-width: 1440px) {
+}
+@media (max-width: 1280px) {
+}
+@media (max-width: 1024px) {
+  .transactionTable {
+    display: none;
+  }
+  .shadeBox {
+    display: none;
+  }
+  .logoImg {
+    width: 119px;
+  }
+}
+@media (max-width: 991px) {
+  // .sideMenuBox {
+  //   height: calc(100vh - 255px);
+  //   overflow: auto;
+  // }
+  .filterresponsive {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .transactionTable {
+    display: none;
+  }
+  .shadeBox {
+    display: none;
+  }
+  .logoImg {
+    width: 119px;
+  }
+}
+@media (max-width: 767px) {
+  .transactionTable {
+    display: none;
+  }
+  .orangeshadeBox {
+    display: none;
+  }
+  .purpleBox {
+    display: none;
+  }
+  .shadeBox {
+    display: none;
+  }
+  .logoImg {
+    width: 119px;
+  }
+  .sliderBox img {
+    width: auto;
+    max-width: 135px;
+  }
+}

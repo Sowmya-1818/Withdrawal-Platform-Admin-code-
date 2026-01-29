@@ -1,5 +1,12 @@
-/.env
-/Constants.js
-/node_modules
-/dist
-/Login.js
+# env
+.env
+
+# dependencies
+node_modules/
+
+# build
+dist/
+
+# specific files
+Constants.js
+Login.js
